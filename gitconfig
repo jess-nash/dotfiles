@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jeenash2@gmail.com
+	name = Jessica Nash
